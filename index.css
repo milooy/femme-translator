@@ -59,5 +59,7 @@ button {
   font-size: 0.9rem;
   position: fixed;
   bottom: 10px;
-  left: 33%;
+  left: 0;
+  width: 100%;
+  text-align: center;
 }
