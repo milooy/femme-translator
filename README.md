@@ -6,7 +6,7 @@
 이 문체는 <a href='http://www.smartstudy.co.kr/'>SMARTSTUDY</a>의 팜므님의 온라인상 어체이며, 이를 동경하는 자가 만든 번역기입니다.
 
 
-![Layout](img/layout.png)
+![Layout](img/layout.jpg)
 문자가 위의 형태일 때, 중성 두 개를 분리해서 초성과 종성에 분배하는 것이 포인트로, 
 굳이 머리속으로 계산하지 않아도, 쉽게 팜므어를 쓸 수 있게 도와줍니다.
 
