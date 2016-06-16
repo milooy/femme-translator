@@ -1,0 +1,63 @@
+html, body { height:100%; overflow:hidden }
+body {
+  margin: 0;
+  padding: 0;
+  background: #B7C3D3;
+  text-align: center;
+  color: #484848;
+}
+
+.pre-container {
+  height: 50%;
+}
+
+.header {
+  font-size: 2.3rem;
+  margin: 2rem;
+  color: white;
+  font-weight: 100;
+}
+
+
+
+textarea {
+  border: none;
+  resize: none;
+  font-size: 1.5rem;
+  background: transparent;
+  text-align: center;
+  display: block;
+  margin: 0 auto;
+  width: 80%;
+  color: #484848;
+}
+
+button {
+  margin-top: -1rem;
+  background: #C44F7C;
+  width: 9rem;
+  height: 3.5rem;
+  border: none;
+  font-size: 1.5rem;
+  color: white;
+  border-radius: 0.2rem;
+}
+
+.result-container {
+  background: #D8D8D8;
+  height: 100%;
+}
+
+.result {
+  font-size: 1.5rem;
+  color: #484848;
+  margin: 2rem;
+}
+
+.copyright {
+  color: #737373;
+  font-size: 0.9rem;
+  position: fixed;
+  bottom: 10px;
+  left: 33%;
+}

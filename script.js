@@ -15,6 +15,6 @@ var femme = function(str) {
 
 $(function() {
     $('.change').on('click', function() {
-        $('.result').text(femme($('input').val()));
+        $('.result').text(femme($('.femme').val()));
     })
 });
